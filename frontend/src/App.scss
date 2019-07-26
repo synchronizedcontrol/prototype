@@ -1,0 +1,12 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+$fontColorLight: #fff;
+
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+}
+
+.table {
+  color: $fontColorLight;
+}
